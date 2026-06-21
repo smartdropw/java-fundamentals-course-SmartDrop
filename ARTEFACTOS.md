@@ -32,9 +32,9 @@ Este curso introductorio está diseñado específicamente para estudiantes de se
 - **Conclusiones clave**: Estructura `if-else` con operadores (`>`, `<`, `==`) y automatización mediante el bucle `for`.
 - **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/) 
 
-### Lección 4: Métodos y Entrada de Datos con Scanner (~ minutos)
+### Lección 4: Métodos y Entrada de Datos con Scanner (~16 minutos)
 - **Descripción**: Organiza tu código de manera limpia usando métodos con parámetros e interactúa con el teclado del usuario.
-- **Enlace**: [Ver la lección]([Colocar enlace de YouTube del Video 4 aquí])
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=NoUEKksieAU)
 - **Conclusiones clave**: Estructuración de métodos reutilizables. Lectura de datos por consola utilizando la clase `Scanner`.
 - **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/)
 
