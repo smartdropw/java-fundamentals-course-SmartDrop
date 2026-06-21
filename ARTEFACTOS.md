@@ -40,7 +40,7 @@ Este curso introductorio está diseñado específicamente para estudiantes de se
 
 ### Lección 5: Introducción a la Programación Orientada a Objetos (POO) (~ minutos)
 - **Descripción**: Explora el verdadero corazón de Java modelando elementos del mundo real a través de clases y objetos.
-- **Enlace**: [Ver la lección]([https://youtu.be/5L5dnTPbg3Y])
+- **Enlace**: [Ver la lección](https://youtu.be/5L5dnTPbg3Y?si=j0Yzo5xH5M8hLHeI)
 - **Conclusiones clave**: Diferencia entre Clase (molde) y Objeto (creación). Uso de atributos, métodos y el Constructor con `new`.
 - **Práctica**: [Abrir OnlineGDB](https://www.onlinegdb.com/) 
 
