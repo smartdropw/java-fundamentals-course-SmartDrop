@@ -8,7 +8,7 @@ Este curso introductorio está diseñado específicamente para estudiantes de se
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [https://github.com/tu-usuario/java-fundamentals-CodeWave](https://github.com/smartdropw/java-fundamentals-course-CodeWave)
+**📂 Repositorio de Código Fuente**: [https://github.com/smartdropw/java-fundamentals-course-CodeWave](https://github.com/smartdropw/java-fundamentals-course-CodeWave)
 * **Editor en línea oficial para las prácticas:** [OnlineGDB](https://www.onlinegdb.com/)
 ---
 
