@@ -43,7 +43,7 @@ Este curso introductorio está diseñado específicamente para estudiantes de se
 - **Enlace**: [Ver la lección](https://youtu.be/5L5dnTPbg3Y?si=j0Yzo5xH5M8hLHeI)
 - **Conclusiones clave**: Diferencia entre Clase (molde) y Objeto (creación). Uso de atributos, métodos y el Constructor con `new`.
 - **Práctica**: [Abrir OnlineGDB](https://onlinegdb.com/jQ9jeqOZG)
-### Lección 6: Proyecto Final - Registro de Estudiantes con POO (~ minutos)
+### Lección 6: Proyecto Final - Registro de Estudiantes con POO (~26 minutos)
 - **Descripción**: Integra todos los conceptos del curso en una aplicación real, aplicando encapsulación y solucionando errores comunes.
 - **Enlace**: [Ver la lección](https://youtu.be/Cr0URZb0YHw)
 - **Conclusiones clave**: Encapsulación con atributos `private` y `getters`. Uso de arreglos para almacenar objetos y control de excepciones.
